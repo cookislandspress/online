@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "news",
+    "description": "",
+    "home_page_url": "https://github.com/cookislandspress/online",
+    "feed_url": "https://github.com/cookislandspress/online/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "CIPress editors"
+    },
+    "items": [
+    ]
+}
